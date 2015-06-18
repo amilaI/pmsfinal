@@ -1,0 +1,21 @@
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+    @font-face {
+  font-family: "weblysleekuil";
+  src: url(../fonts/weblysleekuisl.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "weblysleekuil-bold";
+  src: url(../fonts/weblysleekuisb.ttf) format("truetype");
+}
+/* Space out content a bit */
+body {
+ /* padding-top: 20px;
+  padding-bottom: 20px;*/
+  font-family: weblysleekuil !important;
+   padding-top: 50px;
+}

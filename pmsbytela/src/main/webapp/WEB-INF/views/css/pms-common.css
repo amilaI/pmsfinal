@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "weblysleekuil";
+	src: url(../fonts/weblysleekuisl.ttf) format("truetype");
+}
+
+.label{
+	line-height: 2;
+}
+body {
+	font-family:'weblysleekuil';
+}
